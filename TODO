@@ -11,12 +11,12 @@ Tasks found in: src/leaflet-search.js
     [Line: 475] [low] 		//TODO throw new Error("propertyName '"+propName+"' not found in JSON data");
     [Line: 484] [low] 			//TODO add rnd param or randomize callback name! in recordsFromJsonp
     [Line: 505] [low] 		//TODO add rnd param or randomize callback name! in recordsFromAjax			
-    [Line: 608] [low] 		//TODO implements autype without selection(useful for mobile device)
-    [Line: 739] [low] 			//TODO _recordsFromLayer must return array of objects, formatted from _formatData
-    [Line: 760] [low] 				//TODO refact!
-    [Line: 774] [low] 	    //TODO refact _handleAutoresize now is not accurate
-    [Line: 942] [low] 	//TODO refact animate() more smooth! like this: http://goo.gl/DDlRs
-    [Line: 966] [low] 						//TODO use create event 'animateEnd' in L.Control.Search.Marker 
+    [Line: 610] [low] 		//TODO implements autype without selection(useful for mobile device)
+    [Line: 741] [low] 			//TODO _recordsFromLayer must return array of objects, formatted from _formatData
+    [Line: 762] [low] 				//TODO refact!
+    [Line: 776] [low] 	    //TODO refact _handleAutoresize now is not accurate
+    [Line: 944] [low] 	//TODO refact animate() more smooth! like this: http://goo.gl/DDlRs
+    [Line: 968] [low] 						//TODO use create event 'animateEnd' in L.Control.Search.Marker 
     [Line: 17] [med] //FIXME option condition problem {autoCollapse: true, markerLocation: true} not show location
     [Line: 18] [med] //FIXME option condition problem {autoCollapse: false }
-    [Line: 873] [med] 		//FIXME autoCollapse option hide self._markerSearch before that visualized!!
+    [Line: 875] [med] 		//FIXME autoCollapse option hide self._markerSearch before that visualized!!

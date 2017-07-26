@@ -596,8 +596,10 @@ L.Control.Search = L.Control.extend({
           
         }
       }
-      else
-        throw new Error("propertyName '"+propName+"' not found in feature");
+      else {
+        //throw new Error("propertyName '"+propName+"' not found in feature");
+         
+      }
     }
     else if(layer instanceof L.LayerGroup)
     {
